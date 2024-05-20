@@ -2,7 +2,7 @@
 
 ## 👋 Imad Rashid here 💻
 
-**[LinkedIn](https://www.linkedin.com/in/imadrashid/) | [imadrashid.co](https://www.imadrashid.co/)**
+**[LinkedIn](https://www.linkedin.com/in/imadrashid/) | [imadrashid.com](https://www.imadrashid.com/)**
 
 
 <br />
