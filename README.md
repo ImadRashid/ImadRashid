@@ -15,6 +15,6 @@
 -->
 
 - 🔭 I’m currently working on ChiroSimple LLC
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on Startup Ideas & Product Development
+- 🌱 I’m currently learning Flutter App Profiling, Memory Management, 
+- 👯 I’m looking to collaborate on Startup Ideas & Cool Product Development
 
